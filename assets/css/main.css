@@ -225,6 +225,7 @@ input, select, textarea {
 .socialTop {
 	text-align: right;
 	padding-right: 5%;
+	text-decoration: none;
 }
 
 	.container {
